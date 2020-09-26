@@ -1,0 +1,149 @@
+body{
+background-image: url("wall.png");
+}
+
+
+h2{
+  color: black;}
+hr{
+
+border-width: 5px;
+border-style: inset;
+}
+p{
+  color: #7d0633;
+}
+.right1{
+  background-color: #ffe2e2;
+  padding: 20px;
+}
+.right2{
+  background-color: #ffe2e2;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+  border-color: black;
+}
+.exc1{
+  background-color: #ffe2e2;
+  padding: 20px;
+}
+
+.Confidence{
+  background-color: #efa8e4;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.con1{
+  background-color: #efa8e4;
+  padding: 20px;
+}
+.crying{
+  background-color:  #f6acc8;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.cry1{
+  background-color: #f6acc8;
+  padding: 20px;
+}
+.excited{
+  background-color: #ffe2e2;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.fri1{
+  background-color: #efa8e4;
+  padding: 20px;
+}
+
+.friend{
+  background-color: #efa8e4;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.kis1{
+  background-color: #ffc7c7;
+  padding: 20px;
+}
+.kiss{
+  background-color: #ffc7c7;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.lon1{
+  background-color: #efa8e4;
+  padding: 20px;
+}
+.lonely{
+  background-color: #efa8e4;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.mad1{
+  background-color: #ffc7c7;
+  padding: 20px;
+}
+.maddd{
+  background-color:#ffc7c7;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.moti1{
+  background-color: #f6acc8;
+  padding: 20px;
+}
+.motivation{
+  background-color:#f6acc8;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.nee1{
+  background-color: #ffc7c7;
+  padding: 20px;
+}
+.needd{
+  background-color:  #ffc7c7;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.fig1{
+  background-color: #ffe2e2;
+
+  padding: 20px;
+}
+.fight{
+  background-color: #ffe2e2;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.sic1{
+  background-color: #f6acc8;
+  padding: 20px;
+}
+.sick{
+  background-color: #f6acc8;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
+.sle1{
+  background-color: #efa8e4;
+  padding: 20px;
+}
+.sleep{
+  background-color: #efa8e4;
+  padding: 20px;
+  font-style: oblique;
+  border: solid;
+}
